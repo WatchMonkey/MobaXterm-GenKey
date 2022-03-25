@@ -2,6 +2,12 @@
 你懂的！！
 
 ## 本地启动
+在Ubunt系统中是使用，安装python环境
+```
+sudo apt install python3
+sudo apt install python3-pip
+```
+**注意：命令其中的pip需要改为pip3，python需要改为python3**
 需要安装Python3!!!
 ```
 pip install --no-cache-dir -r requirements.txt
